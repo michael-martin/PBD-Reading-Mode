@@ -1,0 +1,46 @@
+/**
+ * Reading Mode
+ */
+#cboxLoadedContent > div {
+	text-align: left;
+	padding: 20px;
+	font: 16px/24px Georgia, serif;
+	width: 90%;
+	color: #373737;
+}
+
+#cboxLoadedContent > div .rm-button {
+	display: none;
+}
+
+#cboxLoadedContent > div p {
+	margin-bottom: 24px;
+}
+
+#cboxLoadedContent > div a:link {
+	color: #1982D1;
+}
+
+#cboxLoadedContent > div a:visited {
+	color: #69b4ec;
+}
+
+#cboxLoadedContent > div a:hover,
+#cboxLoadedContent > div a:active {
+	text-decoration: none;
+}
+
+#cboxLoadedContent > div h2 {
+	font-size: 22px;
+	margin-bottom: 24px;
+}
+
+#cboxLoadedContent > div h3 {
+	font-size: 18px;
+	margin-bottom: 24px;
+}
+
+#cboxLoadedContent > div h4 {
+	font-size: 16px;
+	margin-bottom: 24px;
+}
