@@ -24,7 +24,7 @@
  			'colorbox',
  			plugin_dir_url( __FILE__ ) . 'colorbox/jquery.colorbox-min.js',
  			array('jquery'),
- 			'1.3.19',
+ 			'1.4.31',
  			true
  		);
  		
